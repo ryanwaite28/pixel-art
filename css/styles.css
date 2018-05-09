@@ -1,0 +1,20 @@
+#grid-form input.form-control {
+  width: 275px;
+  max-width: 100%;
+}
+
+.middlr {
+  display: block;
+  margin: auto;
+}
+
+#canvas-table {
+  margin: 0 auto;
+}
+
+#canvas-table td {
+  width: 20px;
+  height: 20px;
+  background: #fff;
+  border: 1px solid grey;
+}
